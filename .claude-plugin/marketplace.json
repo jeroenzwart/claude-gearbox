@@ -1,0 +1,14 @@
+{
+  "name": "claude-gearbox",
+  "owner": {
+    "name": "Jeroen Zwart",
+    "url": "https://github.com/jeroenzwart"
+  },
+  "plugins": [
+    {
+      "name": "gearbox",
+      "source": "./",
+      "description": "Recommends a reasoning effort per prompt and asks to switch, keep, or auto-adjust from now on"
+    }
+  ]
+}

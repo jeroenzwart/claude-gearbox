@@ -68,6 +68,6 @@ the logo on busy backgrounds without a calm area.
 - **Overlapping shapes:** letter parts overlap instead of being merged into one outline. Screens and print render them
   correctly; for vinyl cutting or embroidery, run *Outline/Unite* in a vector editor first.
 - **Tested:** 16–1024 px, one colour, reversed, light and dark backgrounds, mockups for README, terminal, website, app
-  icon, sticker and social profile (`presentation/gearbox-presentation.html`).
+  icon, sticker and social profile.
 - **Open:** a trademark search (no clearance can be given here); a hand-tuned 16 px favicon on the pixel grid would
   sharpen the steps further.
